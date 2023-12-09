@@ -1,0 +1,45 @@
+.contact_bgd {
+  background: rgb(134, 134, 134);
+  padding: 1px 0px;
+  color: white;
+  background-size: cover;
+  background-position: center;
+}
+
+.contact {
+  width: 1000px;
+  margin: 50px auto;
+}
+
+.contact_bgd h2 {
+  margin: 60px 0px 50px 0px;
+}
+
+.contact h3{
+  margin: 5px 15px 15px 0px;
+}
+
+.contact p {
+  margin: 15px;
+  text-align: justify;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0px;
+  text-align: center;
+  margin: 60px;
+}
+
+.list li{
+  display: inline;
+  padding: 10px;
+}
+
+.list i{
+  font-size: 70px;
+  color: rgb(220, 220, 220);
+}
+
+.list i:hover {
+  color: black;

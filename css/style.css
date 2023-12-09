@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Quicksand:wght@300&display=swap');
+
+@import url('components/container.css');
+@import url('components/circle_img.css');
+@import url('components/button.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/texte.css');
+@import url('components/pgf.css');
+@import url('components/quiz.css');
+@import url('components/contact.css');
+@import url('components/product.css');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  margin: 0px
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
